@@ -1,0 +1,15 @@
+
+.slide-image{
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+}
+.slide-paragraph{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.figure-container {
+    display: flex;
+    flex-direction: column;
+}
